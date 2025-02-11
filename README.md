@@ -17,7 +17,7 @@ I am passionate about **cybersecurity, networking, and artificial intelligence**
   - 📜 CCNA: Switching, Routing, and Wireless Essentials  
   - 📜 CCNA: Introduction to Networks  
   - 🔒 Network Defense  
-  - 🇬🇧 Trinity College London GESE Grade 7 (B2.1)  
+  - 📜 Trinity College London GESE Grade 7 (B2.1)  
 
 ---
 
