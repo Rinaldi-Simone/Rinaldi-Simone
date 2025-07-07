@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Simone Rinaldi!
 
-🎓 **Computer Engineer** | 🔐 **Cybersecurity & Networking Enthusiast** | 🤖 **AI & Deep Learning Explorer**
+🎓 **Computer Engineer** | 🔐 **Cybersecurity & Networking Enthusiast** | 🤖 **AI Explorer**
 
 ---
 
